@@ -12,7 +12,7 @@
   <h3>🚀 Dashboard interativo para análise exploratória de dados</h3>
   <p><i>Portfólio de Analista de Dados Sênior</i></p>
   <br>
-  <a href="https://data-senior-analytics.streamlit.app" target="_blank">
+  <a href="https://data-analytics-sr.streamlit.app" target="_blank">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
   </a>
 </div>
@@ -156,7 +156,7 @@ O dashboard estará disponível em: **http://localhost:8501**
 
 O projeto está disponível online gratuitamente:
 
-👉 **[https://data-senior-analytics.streamlit.app](https://data-senior-analytics.streamlit.app)**
+👉 **[https://data-analytics-sr.streamlit.app](https://data-analytics-sr.streamlit.app)**
 
 ### Como o deploy foi feito:
 
@@ -343,5 +343,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
+```
 
----
