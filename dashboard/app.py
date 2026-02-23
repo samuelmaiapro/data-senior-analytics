@@ -165,7 +165,7 @@ with st.sidebar:
     st.markdown("**Analista de Dados Sênior**")
     st.markdown("📧 smaia2@gmail.com")
     st.markdown("🔗 linkedin.com/in/samuelmaiapro")
-    st.markdown("🐙 github.com/samuelmaiapro/portfolio-analista-dados")
+    st.markdown("🐙 https://github.com/samuelmaiapro/data-senior-analytics")
     st.markdown("---")
 
     # Navegação
