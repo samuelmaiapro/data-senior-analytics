@@ -164,8 +164,8 @@ with st.sidebar:
     st.markdown("## 👨‍💻 Samuel Maia")
     st.markdown("**Analista de Dados Sênior**")
     st.markdown("📧 smaia2@gmail.com")
-    st.markdown("🔗 linkedin.com/in/samuelmaiapro")
-    st.markdown("🐙 https://github.com/samuelmaiapro/data-senior-analytics")
+    st.markdown("🔗 linkedin.com/in/samuelmaia-data-analyst")
+    st.markdown("🐙 https://github.com/samuelmaia-data-analyst/data-senior-analytics")
     st.markdown("---")
 
     # Navegação
@@ -1680,8 +1680,8 @@ st.markdown(
         <p style='font-size: 1.1rem; font-weight: bold;'>Desenvolvido por <span style='color: #FF4B4B;'>Samuel Maia</span> - Analista de Dados Sênior</p>
         <p style='font-size: 0.9rem; color: #555;'>
             📧 smaia2@gmail.com | 
-            🔗 linkedin.com/in/samuelmaiapro | 
-            🐙 github.com/samuelmaiapro/portfolio-analista-dados
+            🔗 linkedin.com/in/samuelmaia-data-analyst | 
+            🐙 github.com/samuelmaia-data-analyst/portfolio-analista-dados
         </p>
         <p style='font-size: 0.8rem; color: #888;'>Python 3.14.2 | Streamlit 1.41.1 | Pandas 2.2.3 | Plotly 6.0.0</p>
         <p style='font-size: 0.8rem; color: #888;'>© 2025 - Todos os direitos reservados</p>
